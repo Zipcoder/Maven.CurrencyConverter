@@ -5,3 +5,10 @@
 .classpath
 .project
 .settings/
+
+# Apple files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+/target/*
